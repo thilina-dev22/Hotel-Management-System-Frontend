@@ -1,9 +1,10 @@
 import './App.css'
+import DashBoard from './pages/DashBoard'
 
 function App() {
   return (
   <div>
-    <h1>Hello</h1>
+    <DashBoard/>
   </div>
   )
 }
